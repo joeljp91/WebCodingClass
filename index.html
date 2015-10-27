@@ -11,6 +11,20 @@
       }
     </style>
   </head>
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Pacifico::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+  
   <style>
     body{
       text-align: center;
@@ -23,6 +37,11 @@
 h3 {
   color: gold;
 }
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: gold;
+}
+	
 h2 {
 	font-family: 'VT323', serif;
 	color: cyan;
