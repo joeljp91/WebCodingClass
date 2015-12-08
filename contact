@@ -1,0 +1,23 @@
+<!doctype html>
+<head>
+   <link href="style.css" rel="stylesheet">
+   <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+  
+</head>
+<body>
+   <nav>
+      <a href="index.html">Home</a>|<a href="about.html">About Me</a>|<a href="contact.html">Contact</a>
+   </nav>
+   <nav>
+
+<ul><li><i><a class="fa fa-facebook fa-4x" href="https://www.facebook.com/joel.perez.752">Facebook</a></i>
+<li><li><i><a class="fa fa-twitter fa-4x" href="https://twitter.com/viced_out">Twitter</a></i>
+<li><li><i><a class="fa fa-linkedin fa-4x" href="https://www.linkedin.com/profile/guided?trk=uno-choose-ge-no-intent&dl=no">LinkedIn</a></ul></i>
+
+</nav>
+
+<p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14369.653999345595!2d-80.1885!3d25.789929!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6b04c9fb83a8090c!2sMiami+International+University+of+Art+%26+Design!5e0!3m2!1sen!2sus!4v1434563012026" width="600" height="450" style="border:0"></iframe>
+</p>
