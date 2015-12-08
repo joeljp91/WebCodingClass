@@ -1,0 +1,89 @@
+ body{
+      background-color: lightblue;
+    color: #FFFF66;
+    text-align: center;
+    
+    font-family: 'PT Sans Narrow', sans-serif;
+     background-image: url(https://download.unsplash.com/photo-1435459025078-9857f8933bc9);
+     background-size: cover;
+    }
+    h1 { 
+      color: #FF6600;
+    font-family: 'Slabo 27px', serif;
+      
+    }
+    h2 {
+      color: #FF6600;
+    text-decoration: none;
+    background-color: #F00
+    border-radius: 30px;
+  }
+img {
+    width: 200;
+}
+nav a{
+    color: #FFF;
+}
+nav a:visited{
+    color: #FFF;
+}
+
+  
+  h2 {
+    color: #247ba0;
+  }
+section {
+  background-color: red;
+  height: 250px;
+  width: 100%;
+  
+  div {
+height: 350px;
+}
+
+Video {
+Width: 100%:
+}
+
+
+  
+ 
+ 
+
+  
+  background: -webkit-linear-gradient(90deg, #4776E6 10%, #8E54E9 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #4776E6 10%, #8E54E9 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #4776E6 10%, #8E54E9 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #4776E6 10%, #8E54E9 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #4776E6 10%, #8E54E9 90%); /* W3C */
+        
+        
+}
+
+body {
+  margin: 0;
+}
+
+section a{
+  color: #FFF;
+  border: 1px solid #fff;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+section {
+  position: relative;
+}
+
+section a {
+  width: 300px;
+  height: 25px;
+  padding: 20px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  margin: -32px 0 0 -170px;
+}
