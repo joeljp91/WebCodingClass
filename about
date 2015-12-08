@@ -1,0 +1,30 @@
+<!doctype html>
+<head>
+   <link href="style.css" rel="stylesheet">
+   <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+  </head>
+  <section>
+   <a href="http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/graffiti-wallpaper-8.jpg" target="_blank"><img width ="500" src="http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/graffiti-wallpaper-8.jpg" border= "5" alt="Image hosting by Wonderful Engineering"></a>
+   </section>
+  
+<body>
+   <nav>
+      <a href="index.html">Home</a>|<a href="About.html">About Me</a>|<a href="contact.html">Contact</a>
+   </nav>
+<img src="http://i64.tinypic.com/fc0f2x.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<ul><li><a href="https://www.facebook.com/joel.perez.752">Facebook</a>
+<li><a href="https://twitter.com/viced_out">Twitter</a>
+<li><a href="https://www.linkedin.com/profile/view?id=AAIAABfcgkoBM7AmEmjphelbAAz7S-tOiEnAyZA&trk=nav_responsive_tab_profile">LinkedIn</a></ul>
+
+
+
+
+<p>My name is Joel Perez. I was born on June 10th, 1991. I am a Graphic Design student at Miami International University of Art and Design. Im very much into the arts. I feel
+it is anexperession of ones self and perspective. </p>
+<a href="http://i64.tinypic.com/fc0f2x.jpg" target="_blank">
+  <img src="http://i64.tinypic.com/fc0f2x.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+</body>
