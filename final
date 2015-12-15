@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="final.css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Global Locations</a></li>
+          <li><a href="#">Investment Opportunities</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">Gallary</a></li>
+          <li><a href="#">Social Media</a></li>
+          <li><a href="#">Clients</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>JPT Designs</h1>
+        <p>JPT Designs is a company that is innovative and focuses on being able to deliver at full effect using our top of the line marketing techniques.</p>
+        <a href="#">Learn More</a>
+       <h1>Our Story.</h1>
+        <p>We started in the heart of Miami, with little or no resources. After learning the business and gathering useful connections, we were able to partner up with Adobe, to be able to design for them.</p>
+        <a href="#">Learn More</a>
+      </div>
+    </div> 
+
+<div class="neighborhood-guides">
+    <div class="container">
+        <h2>Design work</h2>
+        <p>These are some projects we have created for our clients.</p>
+        <div class="row">
+	      <div  class="col-md-4"> <div class="thumbnail">
+  <img src="http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2013/04/AdobeIllustratorCS6Window.jpg" >
+</div><div class="thumbnail">
+  <img src="http://webneel.com/daily/sites/default/files/images/daily/01-2014/26-typographic-posters.jpgv" >
+</div>
+
+	      </div>
+	        <div  class="col-md-4"> <div class="thumbnail">
+  <img src="http://www.saxoprint.co.uk/blog/wp-content/uploads/2014/03/minimalistic-poster-inspiration-03-570x790.jpg" >
+</div><div class="thumbnail">
+  <img src="http://theludlowgroup.com/associated-files/posts/2013-01-23-illustrator-transforms-classic-movie-posters-with-retro-graphic-design/Retro_Graphic_Design_Laurent_Durieux_Movie_Posters_6.jpgg" >
+</div>
+
+	      </div>
+	        <div  class="col-md-4"> <div class="thumbnail">
+  <img src="http://www.magicelement.com/images/main-creative/graphic-design-mujjo-logo-colour.jpg" >
+  <img src="http://apt3studios.com/img/graphicdesign1.jpg" >
+<img src="http://i.ytimg.com/vi/xOK14HQoWrE/maxresdefault.jpg" >
+</div>
+
+	      </div>
+	      </div>
+    </div>
+</div>
+
+    <div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      <div  class="col-md-4">
+			<h3>Intel Design co.</h3>
+			<p>These colorful graphics give the our client a power image, showing their costomers a powerful look into graphic design.</p>
+			<p><a href="#">Learn more 1</a></p>
+	      </div>
+		  <div class="col-md-4">
+			<h3>Smash Eleven Studios</h3>
+			<p>These 3D graphics and abtract art really capture the ssance od urban design. </p>
+			<p><a href="#">Learn more 2</a></p>
+		  </div>
+		  <div class="col-md-4">
+			<h3>MUJJU</h3>
+			<p>The idea for the branding of MUJJU came from their South American decent. Lions are a power expression of their culture.</p>
+			<p><a href="#">Learn more 3</a></p>
+		  </div>
+		  
+		  <div class="col-md-4">
+			<h3>Abstract</h3>
+			<p>Absrtact art is a very influencial part of our design process.</p>
+			<p><a href="#">Learn more 3</a></p>
+		  </div>
+		  
+	    <div class="col-md-4">
+			<h3>Urban ART</h3>
+			<p>We consider all type of art. Including graffiti. Our vision is to educate the world about Art and all aspects of it.</p>
+			<p><a href="#">Learn more 3</a></p>
+		  </div>
+	   
+	    </div>
+	   </div>
+	</div>
+	
+	<h1>HOPE TO WORK WITH YOU VERY SOON!.</h1>
+        <p>If you have any questions regarding work or you are an exsisting client, click the details tab below.</p>
+        <a href="#">Details</a>
+	
+		<footer>
+		© Copyright Juancarlos Barrero 2015
+	</footer>
+	
+	
+  </body>
+</html>
+
+    Status API Training Shop Blog About Pricing 
+
+    © 2015 GitHub, Inc. Terms Privacy Security Contact Help 
